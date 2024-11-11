@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Quicky_stickons",
+    "version": "1.0",
+    "description": "A simple notes-taking extension",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon3.png.png",
+        "48": "icon2.png.png",
+        "128": "icon1.png.png"
+      }
+    }
+  }
+  
